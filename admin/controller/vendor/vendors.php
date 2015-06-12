@@ -8,4 +8,8 @@ public function index(){
 echo "test hello";
 }
 
+public function testing(){
+
+}
+
 }
